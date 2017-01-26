@@ -1,0 +1,34 @@
+{
+  "name": "build-skin",
+  "version": "1.0.0",
+  "description": "Node Based bootstrap skin builder",
+  "main": "bin/build-skin.js",
+  "scripts": {
+    "build-skin": "bin/build-skin.js"
+  },
+  "main": "index.js",
+  "bin": {
+    "build-skin": "bin/build-skin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hguerrerojaime/build-skin.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "skin",
+    "theme",
+    "builder"
+  ],
+  "author": "Humberto Guerrero Jaime",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hguerrerojaime/build-skin/issues"
+  },
+  "homepage": "https://github.com/hguerrerojaime/build-skin#readme",
+  "dependencies": {
+    "gulp": "3.9.1",
+    "gulp-build-skin": "^1.0.0",
+    "yargs": "6.6.0"
+  }
+}
