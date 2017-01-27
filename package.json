@@ -1,12 +1,12 @@
 {
   "name": "build-skin",
-  "version": "1.0.4",
+  "version": "1.0.3",
   "description": "Node Based bootstrap skin builder",
   "main": "bin/build-skin.js",
   "scripts": {
     "start": "node bin/build-skin.js"
   },
-  "main": "bin/build-skin.js",
+  "main": "index.js",
   "bin": {
     "build-skin": "bin/build-skin"
   },
