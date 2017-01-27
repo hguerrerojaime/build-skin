@@ -1,6 +1,6 @@
 {
   "name": "build-skin",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Node Based bootstrap skin builder",
   "main": "bin/build-skin.js",
   "scripts": {
@@ -28,7 +28,7 @@
   "homepage": "https://github.com/hguerrerojaime/build-skin#readme",
   "dependencies": {
     "gulp": "3.9.1",
-    "gulp-build-skin": "1.0.3",
+    "gulp-build-skin": "1.0.4",
     "yargs": "6.6.0"
   }
 }
