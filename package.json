@@ -28,7 +28,7 @@
   "homepage": "https://github.com/hguerrerojaime/build-skin#readme",
   "dependencies": {
     "gulp": "3.9.1",
-    "gulp-build-skin": "1.0.4",
+    "gulp-build-skin": "1.0.5",
     "yargs": "6.6.0"
   }
 }
